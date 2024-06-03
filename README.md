@@ -18,4 +18,4 @@ If anyone has any issues, finds bug or has suggestions I’m happy to hear from 
 
 ### Install
 
-https://github.com/MrPropeevel/mrp_accidenteffect
+[https://github.com/MrPropeevel/mrp_accidenteffect](https://github.com/MrPropeevel/mrp_accidenteffect/releases/download/FiveM/mrp_accidenteffect.zip)
